@@ -9,9 +9,10 @@ Awesome profiles and repos pubished by people form the Faculty of Cybernetics, S
 * [COTFAS Liviu](https://github.com/liviucotfas)
 * [DIȚĂ Alexandru](https://github.com/alexandrudita)
 * [IANCU Bogdan](https://github.com/BogdanIancu)
+* [PELE Daniel Traian](https://github.com/danpele)
 * [TOMA Andrei](https://bitbucket.org/hypothetical_andrei/)
 * [TOMA Cristian](https://github.com/critoma)
-* [PELE Daniel Traian](https://github.com/danpele)
+
 
 # Students / Alumni
 
