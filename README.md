@@ -13,12 +13,17 @@ Awesome profiles and repos pubished by people form the Faculty of Cybernetics, S
 * [TOMA Andrei](https://bitbucket.org/hypothetical_andrei/)
 * [TOMA Cristian](https://github.com/critoma)
 
-
-# Students / Alumni
-
 # Courses
 
+## Afaceri Electronice / Comerț electronic
+* [Github](https://github.com/csie-afacerielectronice)
+
+## Tehnologii Web
+* [Github](https://github.com/webtech-superheroes)
+
 # Labs and code samples
+
+# Students / Alumni
 
 # Projects
 
