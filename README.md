@@ -12,6 +12,7 @@ Awesome profiles and repos pubished by people form the Faculty of Cybernetics, S
 * [PELE Daniel Traian](https://github.com/danpele)
 * [TOMA Andrei](https://bitbucket.org/hypothetical_andrei/)
 * [TOMA Cristian](https://github.com/critoma)
+* [ZAMFIROIU Alin](https://github.com/zamfiroiu)
 
 # Courses
 
